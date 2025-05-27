@@ -69,6 +69,3 @@ This project implements an advanced **automatic attendance system** using **mult
 
 Contributions are welcome! Please fork the repository and create pull requests for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License.
