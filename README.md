@@ -9,7 +9,6 @@ This project implements an advanced **automatic attendance system** using **mult
 
 - Real-time face detection and recognition using deep learning.
 - Multi-pose face matching to handle different facial orientations.
-- Gender prediction integrated into the recognition pipeline.
 - User information retrieval and storage alongside attendance data.
 - Attendance data stored securely in a SQL database.
 - Image capturing and saving for verification and record keeping.
@@ -28,15 +27,14 @@ This project implements an advanced **automatic attendance system** using **mult
 - **SQL Server / MySQL** — Database backend to store attendance and user data.
 - **Windows Forms** — Desktop GUI framework.
 - **CSV Export** — For exporting attendance data.
-- **Deep Learning Models** — Face detection, recognition, and gender prediction.
+- **Deep Learning Models** — Face detection, recognition.
 
 ## System Architecture
 
 1. **Face Detection Model**: Detects faces in the camera feed.
-2. **Face Recognition Model**: Matches detected faces against the registered database.
-3. **Gender Prediction Model**: Predicts the gender of recognized faces.
-4. **Database Layer**: Stores user profiles and attendance logs.
-5. **UI Layer**: Provides user interaction through camera preview, saving images, and attendance reporting.
+2. **Face Recognition Model**: Matches detected faces against the registered database
+3. **Database Layer**: Stores user profiles and attendance logs.
+4. **UI Layer**: Provides user interaction through camera preview, saving images, and attendance reporting.
 
 ## Installation and Setup
 
