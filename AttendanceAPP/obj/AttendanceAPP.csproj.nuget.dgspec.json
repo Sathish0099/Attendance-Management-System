@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\AttendanceAPP.csproj": {}
+    "C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\AttendanceAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\AttendanceAPP.csproj": {
+    "C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\AttendanceAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\AttendanceAPP.csproj",
+        "projectUniqueName": "C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\AttendanceAPP.csproj",
         "projectName": "AttendanceAPP",
-        "projectPath": "C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\AttendanceAPP.csproj",
-        "packagesPath": "C:\\Users\\Raji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\obj\\",
+        "projectPath": "C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\AttendanceAPP.csproj",
+        "packagesPath": "C:\\Users\\Scita-Pc-23\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Raji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Scita-Pc-23\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,6 +35,9 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -44,15 +46,24 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "AForge.Video": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
             "AForge.Video.DirectShow": {
               "target": "Package",
               "version": "[2.2.5, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.0, )"
             },
             "SeetaFace6Sharp": {
               "target": "Package",
@@ -61,10 +72,6 @@
             "SeetaFace6Sharp.Extension.SystemDrawing": {
               "target": "Package",
               "version": "[1.0.10, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.9.0, )"
             }
           },
           "imports": [
@@ -86,7 +93,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

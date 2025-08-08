@@ -1,5 +1,5 @@
 ﻿using System.Data;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using AttendanceAPP.Classes;
 namespace AttendanceAPP
 {
@@ -45,7 +45,7 @@ namespace AttendanceAPP
         }
         private void LoadUserData()
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             try
             {
@@ -72,7 +72,7 @@ namespace AttendanceAPP
         }
         private void Exportbtn_Click(object sender, EventArgs e)
         {
-            string folderPath = @"C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Attendance Records";
+            string folderPath = @"C:\\Users\\Scita-pc-23\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Attendance Records";
             
             if (userCheckbox.Checked)
             {
@@ -108,7 +108,7 @@ namespace AttendanceAPP
         }
         private void LoadByDateRange()
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             try
             {
@@ -176,7 +176,7 @@ namespace AttendanceAPP
         }
         private void LoadUserImage(int userId)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
             string selectedDate = dateTimePicker1.Value.ToString("yyyy-MM-dd");
             try
             {
@@ -214,7 +214,7 @@ namespace AttendanceAPP
         }
         private void ShowDaysPresentForUser(string username)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             try
             {

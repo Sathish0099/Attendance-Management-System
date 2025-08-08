@@ -557,10 +557,10 @@
         private System.Windows.Forms.Timer MenuTimer;
         private Panel panelRecords;
         private Panel panelAbsent;
-        private Button btnP;
-        private System.Windows.Forms.Timer RSliderTimer;
+        
+     
         private System.Windows.Forms.Timer RecordsTimer;
-        private Button btnA;
+       
         private Button btnAbsent;
         private Button btnPresent;
         private Panel panelPresent;

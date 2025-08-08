@@ -2,7 +2,7 @@
 using AForge.Video.DirectShow;
 using AttendanceAPP.Classes;
 using SeetaFace6Sharp;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 
 namespace AttendanceAPP
 {
@@ -217,7 +217,7 @@ namespace AttendanceAPP
         {
             Dictionary<string, List<float[]>> faceData = new Dictionary<string, List<float[]>>();
 
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 conn.Open();

@@ -1,7 +1,7 @@
 ﻿using AForge.Video;
 using AForge.Video.DirectShow;
 using SeetaFace6Sharp;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using System.Diagnostics;
 using AttendanceAPP.Classes;
 namespace AttendanceAPP
@@ -192,7 +192,7 @@ namespace AttendanceAPP
         }
         private void SaveUserToDatabase(int userId, string username, string gender, int age, float[] faceFeature, float[] maskFeature)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             try
             {
@@ -245,7 +245,7 @@ namespace AttendanceAPP
         }
         private int GetUserId(string username)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
@@ -365,7 +365,7 @@ namespace AttendanceAPP
         }
         private void DeleteUserFromDatabase(int userId)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             try
             {

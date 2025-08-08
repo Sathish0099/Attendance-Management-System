@@ -1,11 +1,11 @@
-﻿using System.Data.SqlClient;
+﻿using Microsoft.Data.SqlClient;
 namespace AttendanceAPP.Classes
 {
     internal class Valid
     {
         public static bool UsernameExists(string username)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             using (SqlConnection conn = new SqlConnection(connectionString))
             {

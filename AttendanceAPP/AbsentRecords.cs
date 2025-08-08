@@ -1,5 +1,5 @@
 ﻿using System.Data;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using AttendanceAPP.Classes;
 
 namespace AttendanceAPP
@@ -24,7 +24,7 @@ namespace AttendanceAPP
         }
         private void LoadAbsentUsersByDate()
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             try
             {
@@ -98,7 +98,7 @@ namespace AttendanceAPP
         }
         private void LoadAbsentUsersByDateRangeAndUsername(DateTime startDate, DateTime endDate, string username)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             try
             {
@@ -174,7 +174,7 @@ namespace AttendanceAPP
 
         private void Exportbtn_Click(object sender, EventArgs e)
         {
-            string folderPath = @"C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Attendance Records";
+            string folderPath = @"C:\Users\Scita-Pc-23\source\repos\Attendance_Project\AttendanceAPP\Attendance Records";
             
             if(userCheckbox.Checked)
             {

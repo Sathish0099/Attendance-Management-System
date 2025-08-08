@@ -1,11 +1,11 @@
 ﻿using AttendanceAPP.Classes;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 namespace AttendanceAPP
 {
     public partial class FilterExportMonth : UserControl
     {
         private System.Windows.Forms.Timer refreshTimer;
-        private string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+        private string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
         public FilterExportMonth()
         {
@@ -126,7 +126,7 @@ namespace AttendanceAPP
 
         private void Exportbtn_Click(object sender, EventArgs e)
         {
-            string folderPath = @"C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Attendance Records";
+            string folderPath = @"C:\Users\Scita-Pc-23\source\repos\Attendance_Project\AttendanceAPP\Attendance Records";
             string month = comboBoxMonth.Text.Trim();
             string username = textBoxUser.Text.Trim();
             string fileName = $"{username}_Records_{month}_Month.csv";

@@ -1,0 +1,729 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\presentrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\presentrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\holidays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\holidays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\filterweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\filterweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\filtermonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\filtermonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\filterexportmonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\filterexportmonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\attendanceexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\attendanceexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\attendanceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\attendanceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\absentrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\absentrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\attendanceapp\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\attendanceapp\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\attendanceapp\\attendanceexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\attendanceexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\attendanceapp\\attendanceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\attendanceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\attendanceapp\\absentrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\absentrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\filter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\filter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\attendanceentry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\attendanceentry.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\absentrecords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\absentrecords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\about.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\about.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\classes\\valid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\classes\\valid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\classes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\classes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\classes\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\classes\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\classes\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\classes\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\attendanceapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\attendanceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\attendanceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\userprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\userprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\records.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\records.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\presentrecords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\presentrecords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\holidays.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\holidays.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\filterweek.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\filterweek.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\filtermonth.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\filtermonth.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\filterexportmonth.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\filterexportmonth.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|c:\\users\\scita-pc-23\\source\\repos\\attendance_project\\attendanceapp\\attendanceexit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567413DA-98A9-4A1A-8EA7-14C26EEF3155}|AttendanceAPP\\AttendanceAPP.csproj|solutionrelative:attendanceapp\\attendanceexit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilterWeek.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterWeek.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\FilterWeek.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterWeek.cs",
+              "RelativeToolTip": "AttendanceAPP\\FilterWeek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:13:11.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Holidays.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Holidays.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Holidays.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Holidays.cs",
+              "RelativeToolTip": "AttendanceAPP\\Holidays.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:13:27.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Home.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Home.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Home.cs",
+              "RelativeToolTip": "AttendanceAPP\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:05:31.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loading.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Loading.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Loading.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Loading.cs",
+              "RelativeToolTip": "AttendanceAPP\\Loading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:05:36.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Login.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Login.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Login.cs",
+              "RelativeToolTip": "AttendanceAPP\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:57:53.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\MainForm.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\MainForm.cs",
+              "RelativeToolTip": "AttendanceAPP\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:05:47.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PresentRecords.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\PresentRecords.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\PresentRecords.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\PresentRecords.cs",
+              "RelativeToolTip": "AttendanceAPP\\PresentRecords.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAswBYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:13:43.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Records.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Records.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Records.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Records.cs",
+              "RelativeToolTip": "AttendanceAPP\\Records.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwCkAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:13:55.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\UserProfile.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\UserProfile.cs",
+              "RelativeToolTip": "AttendanceAPP\\UserProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:58:52.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilterMonth.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterMonth.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\FilterMonth.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterMonth.cs",
+              "RelativeToolTip": "AttendanceAPP\\FilterMonth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:12:59.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilterExportMonth.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterExportMonth.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\FilterExportMonth.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterExportMonth.cs",
+              "RelativeToolTip": "AttendanceAPP\\FilterExportMonth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:12:42.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Filter.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Filter.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Filter.cs",
+              "RelativeToolTip": "AttendanceAPP\\Filter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:59:59.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Calculate.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Calculate.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Calculate.cs",
+              "RelativeToolTip": "AttendanceAPP\\Calculate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:12:19.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttendanceExit.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceExit.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\AttendanceExit.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceExit.cs",
+              "RelativeToolTip": "AttendanceAPP\\AttendanceExit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANsAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:54:11.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttendanceEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceEntry.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\AttendanceEntry.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceEntry.cs",
+              "RelativeToolTip": "AttendanceAPP\\AttendanceEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:12:28.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AbsentRecords.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AbsentRecords.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\AbsentRecords.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AbsentRecords.cs",
+              "RelativeToolTip": "AttendanceAPP\\AbsentRecords.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAYwLAAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:53:45.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\About.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\About.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\About.cs",
+              "RelativeToolTip": "AttendanceAPP\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:10:29.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Filter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Filter.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Filter.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Filter.cs [Design]",
+              "RelativeToolTip": "AttendanceAPP\\Filter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:59:54.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Calculate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Calculate.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Calculate.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Calculate.cs [Design]",
+              "RelativeToolTip": "AttendanceAPP\\Calculate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:02:00.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AttendanceExit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceExit.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\AttendanceExit.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceExit.cs [Design]",
+              "RelativeToolTip": "AttendanceAPP\\AttendanceExit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:01:44.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AttendanceEntry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceEntry.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\AttendanceEntry.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceEntry.cs [Design]",
+              "RelativeToolTip": "AttendanceAPP\\AttendanceEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:01:17.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AbsentRecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AbsentRecords.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\AbsentRecords.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AbsentRecords.cs [Design]",
+              "RelativeToolTip": "AttendanceAPP\\AbsentRecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:00:38.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "About.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\About.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\About.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\About.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\About.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:48:51.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Valid.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Classes\\Valid.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Classes\\Valid.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Classes\\Valid.cs",
+              "RelativeToolTip": "AttendanceAPP\\Classes\\Valid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:17:30.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Classes\\Loader.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Classes\\Loader.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Classes\\Loader.cs",
+              "RelativeToolTip": "AttendanceAPP\\Classes\\Loader.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAlwL4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:16:03.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CSVExporter.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Classes\\CSVExporter.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Classes\\CSVExporter.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Classes\\CSVExporter.cs",
+              "RelativeToolTip": "AttendanceAPP\\Classes\\CSVExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:15:55.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Classes\\Attendance.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Classes\\Attendance.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Classes\\Attendance.cs",
+              "RelativeToolTip": "AttendanceAPP\\Classes\\Attendance.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:04:20.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Login.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Login.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Login.cs [Design]",
+              "RelativeToolTip": "AttendanceAPP\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:57:33.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AbsentRecords.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AbsentRecords.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\AbsentRecords.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AbsentRecords.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\AbsentRecords.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:48:56.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AttendanceEntry.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceEntry.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\AttendanceEntry.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceEntry.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\AttendanceEntry.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:48:44.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Filter.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Filter.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Filter.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Filter.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\Filter.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:49:12.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\MainForm.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\MainForm.Designer.cs",
+              "ViewState": "AgIAABwCAAAAAAAAAAAlwC8CAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:50:00.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AttendanceAPP.csproj",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\AttendanceAPP.csproj",
+              "RelativeDocumentMoniker": "AttendanceAPP\\AttendanceAPP.csproj",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\AttendanceAPP.csproj",
+              "RelativeToolTip": "AttendanceAPP\\AttendanceAPP.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T05:09:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Login.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\Login.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:49:52.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Loading.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Loading.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Loading.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Loading.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\Loading.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:49:46.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Home.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\Home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:49:41.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Holidays.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Holidays.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Holidays.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Holidays.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\Holidays.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:49:35.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PresentRecords.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\PresentRecords.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\PresentRecords.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\PresentRecords.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\PresentRecords.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:50:12.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Records.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Records.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\Records.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\Records.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\Records.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:50:23.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\UserProfile.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\UserProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\UserProfile.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\UserProfile.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:50:28.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FilterWeek.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterWeek.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\FilterWeek.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterWeek.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\FilterWeek.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:49:31.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FilterMonth.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterMonth.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\FilterMonth.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterMonth.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\FilterMonth.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:49:24.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FilterExportMonth.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterExportMonth.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\FilterExportMonth.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\FilterExportMonth.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\FilterExportMonth.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:49:18.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AttendanceExit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceExit.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceAPP\\AttendanceExit.Designer.cs",
+              "ToolTip": "C:\\Users\\Scita-Pc-23\\source\\repos\\Attendance_Project\\AttendanceAPP\\AttendanceExit.Designer.cs",
+              "RelativeToolTip": "AttendanceAPP\\AttendanceExit.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:49:03.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

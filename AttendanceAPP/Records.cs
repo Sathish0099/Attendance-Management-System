@@ -1,5 +1,5 @@
 ﻿using System.Data;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using AttendanceAPP.Classes;
 namespace AttendanceAPP
 {
@@ -25,7 +25,7 @@ namespace AttendanceAPP
 
         private void Exportbtn_Click(object sender, EventArgs e)
         {
-            string folderPath = @"C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Attendance Records";
+            string folderPath = @"C:\Users\Scita-Pc-23\source\repos\Attendance_Project\AttendanceAPP\Attendance Records";
             string selectedDate = dateTimePicker1.Value.ToString("yyyy-MM-dd");
             string fileName = $"Attendance_Records_{selectedDate}.csv";
             CSVExporter.ExportToCSV(dataGrid, folderPath, fileName);
@@ -39,7 +39,7 @@ namespace AttendanceAPP
         }
         private void LoadUserData()
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             try
             {
@@ -122,7 +122,7 @@ namespace AttendanceAPP
                 allDates.Add(date);
             }
 
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
@@ -198,7 +198,7 @@ namespace AttendanceAPP
 
         private void ExportbtnFilter_Click(object sender, EventArgs e)
         {
-            string folderPath = @"C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Attendance Records";
+            string folderPath = @"C:\Users\Scita-Pc-23\source\repos\Attendance_Project\AttendanceAPP\Attendance Records";
             string startDate = dateTimePickerStart.Value.ToString("yyyy-MM-dd");
             string endDate = dateTimePickerEnd.Value.ToString("yyyy-MM-dd");
             string fileName = $"Attendance_Records_{startDate}_to_{endDate}.csv";

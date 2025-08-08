@@ -1,10 +1,10 @@
 ﻿using AttendanceAPP.Classes;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 namespace AttendanceAPP
 {
     public partial class FilterMonth : UserControl
     {
-        private string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+        private string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
         private System.Windows.Forms.Timer refreshTimer;
         public FilterMonth()
         {

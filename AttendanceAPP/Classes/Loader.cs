@@ -1,4 +1,4 @@
-﻿using System.Data.SqlClient;
+﻿using Microsoft.Data.SqlClient;
 using System.Data;
 using AForge.Video.DirectShow;
 
@@ -8,7 +8,7 @@ namespace AttendanceAPP.Classes
     {
         public static void LoadUserData(DataGridView datagrid)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             try
             {
@@ -57,7 +57,7 @@ namespace AttendanceAPP.Classes
         }
         public static void SetUserJoinDateAsMinDate(string username,DateTimePicker StartDate, DateTimePicker EndDate)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             try
             {
@@ -87,7 +87,7 @@ namespace AttendanceAPP.Classes
         public static DateTime GetJoinDate(string username)
         {
             DateTime joinDate = new DateTime(2024, 1, 1); 
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             using (SqlConnection con = new SqlConnection(connectionString))
             {
@@ -109,7 +109,7 @@ namespace AttendanceAPP.Classes
         }
         public static List<DateTime> GetPresentDates(int year, int month,string username)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             List<DateTime> dates = new List<DateTime>();
             using (SqlConnection con = new SqlConnection(connectionString))
@@ -140,7 +140,7 @@ namespace AttendanceAPP.Classes
         }
         public static List<DateTime> PresentDates(DateTimePicker Start, DateTimePicker End, string username)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             List<DateTime> dates = new List<DateTime>();
             using (SqlConnection con = new SqlConnection(connectionString))

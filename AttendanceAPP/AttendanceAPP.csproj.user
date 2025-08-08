@@ -46,21 +46,6 @@
     <Compile Update="Records.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="Tools\RoundedPanel.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Update="Tools\CustomButton.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Update="Tools\CustomCheckBox.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Update="Tools\CustomTextBox.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Update="Tools\SpProgressBar.cs">
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Update="UserProfile.cs">
       <SubType>UserControl</SubType>
     </Compile>

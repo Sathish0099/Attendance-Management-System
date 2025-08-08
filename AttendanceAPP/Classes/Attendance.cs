@@ -1,6 +1,8 @@
-﻿using System.Data.SqlClient;
+﻿
 using System.Diagnostics;
 using System.Drawing.Imaging;
+using Microsoft.Data.SqlClient;
+
 
 namespace AttendanceAPP.Classes
 {
@@ -8,7 +10,7 @@ namespace AttendanceAPP.Classes
     {
         public static void MarkAttendance(string userName, byte[] imageBytes)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
@@ -88,7 +90,7 @@ namespace AttendanceAPP.Classes
         }
         public static void UpdateExitTime(string userName)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Raji\\source\\repos\\AttendanceAPP\\AttendanceAPP\\Database.mdf;Integrated Security=True";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Scita-Pc-23\\Source\\Repos\\Attendance_Project\\AttendanceAPP\\Database.mdf";
 
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
